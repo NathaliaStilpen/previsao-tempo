@@ -1,7 +1,5 @@
 # 📦 Projeto Twitter
 
-DESCRIÇÃO_CURTA_DO_PROJETO
-
 Projeto desenvolvido utilizando a API OpenWeather, que permite ao usuário buscar qualquer localização e visualizar a previsão do tempo atual, 
 além da previsão estendida para os próximos 5 dias. A interface é intuitiva e responsiva, oferecendo informações como temperatura, sensação térmica, 
 umidade e condições climáticas de forma clara e acessível.
