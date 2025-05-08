@@ -1,4 +1,4 @@
-# 📦 Projeto Twitter
+# 📦 Aplicação de Previsão de Tempo
 
 Projeto desenvolvido utilizando a API OpenWeather, que permite ao usuário buscar qualquer localização e visualizar a previsão do tempo atual, 
 além da previsão estendida para os próximos 5 dias. A interface é intuitiva e responsiva, oferecendo informações como temperatura, sensação térmica, 
@@ -28,3 +28,5 @@ npm install
 
 # Rodar o projeto (ajuste conforme sua stack)
 npm run dev
+
+![image](https://github.com/user-attachments/assets/4559244a-5bf1-43a2-9845-e60ac6ca416e)
