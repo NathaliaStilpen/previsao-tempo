@@ -29,4 +29,4 @@ npm install
 # Rodar o projeto (ajuste conforme sua stack)
 npm run dev
 
-![image](https://github.com/user-attachments/assets/4559244a-5bf1-43a2-9845-e60ac6ca416e)
+
