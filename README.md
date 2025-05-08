@@ -18,10 +18,7 @@ umidade e condições climáticas de forma clara e acessível.
 
 ```bash
 # Clonar o projeto
-git clone https://github.com/SEU_USUARIO/NOME_DO_PROJETO.git
-
-# Entrar na pasta
-cd NOME_DO_PROJETO
+git clone https://github.com/NathaliaStilpen/previsao-tempo.git
 
 # Instalar dependências (ajuste conforme sua stack)
 npm install
